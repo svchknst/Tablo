@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name" translatable="false">My Application</string>
     <string name="Аргентина">Аргентина</string>
+    <string name="_5">5</string>
+    <string name="toch">:</string>
+    <string name="_0">0</string>
+    <string name="Yam">Ямайка</string>
+    <string name="Сброс">Сброс</string>
+    <string name="Arg">Аргентина</string>
 </resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="stosh">169dp</dimen>
+    <dimen name="sizee">120dp</dimen>
+    <dimen name="sizeee">16dp</dimen>
+    <dimen name="sisee">150dp</dimen>
+    <dimen name="siz">179dp</dimen>
+    <dimen name="sizi">109dp</dimen>
+    <dimen name="sizii">50dp</dimen>
+    <dimen name="siziii">30sp</dimen>
+    <dimen name="sizeeee">60dp</dimen>
+    <dimen name="sizes">135dp</dimen>
+    <dimen name="sizess">200dp</dimen>
+    <dimen name="sizese">210dp</dimen>
+    <dimen name="sizzzes">650dp</dimen>
+</resources>
