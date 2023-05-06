@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="Аргентина">Argentina</string>
+    <string name="_5">5</string>
+    <string name="toch">:</string>
+    <string name="_0">0</string>
+    <string name="Yam">Jamaica</string>
+    <string name="Сброс">Reset</string>
+    <string name="Arg">Argentina</string>
+</resources>
